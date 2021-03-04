@@ -492,7 +492,6 @@
 			{
 				"name": "Production",
 				"segment_type": "production",
-				"persistent": true,
 				"run_after": [
 					"Release"
 				],
